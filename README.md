@@ -22,7 +22,7 @@
 
 进入对应版本的 Release 页面，点击资产下载：
 
-- AI Resume v1.0.0.0：https://github.com/<owner>/<repo>/releases/tag/airesume-1.0.0.0
+- AI Resume v1.0.0.0：https://github.com/JackieyLi/Installers/releases/tag/AIResume_v1.0.0.0
 
 ### 2. 命令行下载（直链，适合脚本/自动化）
 
