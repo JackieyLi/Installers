@@ -12,7 +12,7 @@
 
 | 项目 | 最新版本 | 安装包 | 平台 |
 |---|---|---|---|
-| AI Resume（简历智能分析与优化） | [v1.0.0.0](releases/download/AIResume_v1.0.0.0/AIResumeSetup.exe) | `AIResumeSetup.exe` | Windows x64 |
+| AI Resume（简历智能分析与优化） | [v1.0.0.0](https://github.com/JackieyLi/Installers/releases/download/AIResume_v1.0.0.0/AIResumeSetup.exe) | `AIResumeSetup.exe` | Windows x64 |
 
 ---
 
